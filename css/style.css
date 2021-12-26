@@ -49,13 +49,13 @@ a:focus {
 /* Navigation */
 #menu {
     margin-bottom: 0;
-    background-color: #38A5DB;
+    background-color: #D3D3D3;
     padding: 10px 0;
     height: auto;
     border: 0px;
 }
 .navbar-brand img {
-    height: 60px;
+    height: 30px;
     width: auto;
 }
 .navbar-brand { padding: 12px 15px }
