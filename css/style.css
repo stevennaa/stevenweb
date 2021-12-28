@@ -55,7 +55,7 @@ a:focus {
     border: 0px;
 }
 .navbar-brand img {
-    height: 60px;
+    height: 100px; 
     width: auto;
 }
 .navbar-brand { padding: 8px 12px }
@@ -124,7 +124,7 @@ a:focus {
 #home h1 { color: #FFFFFF; line-height: 64px; font-size: 44px;}
 .content-heading p.lead { margin-bottom: 80px ; color: #FFF;}
 a.goto-btn {
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 700;
     border-bottom: 2px solid transparent;
     transition: all 0.5s;
