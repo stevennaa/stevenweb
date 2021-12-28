@@ -273,7 +273,7 @@ a.goto-btn { margin-right: 30px ; border: #fff 1px solid; padding: 12px 18px; co
 }
 /* Intro Section */
 #intro {
-    background-color: #38A5DB;
+    background-color: #0000;
     padding: 5% 0;
     color: #ffffff;
     text-align: center;
@@ -369,7 +369,7 @@ h4.media-heading {
 }
 
 #about h1 {
-    color:#fff;
+    color:#0000;
     font-size:36px;
     line-height:42px;
     font-weight:300;
