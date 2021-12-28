@@ -58,7 +58,7 @@ a:focus {
     height: 60px;
     width: auto;
 }
-.navbar-brand { padding: 12px 15px }
+.navbar-brand { padding: 8px 12px }
 .navbar-nav > li > a {
     font-size: 13px;
     font-weight: 700;
