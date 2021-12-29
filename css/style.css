@@ -365,13 +365,13 @@ h4.media-heading {
 }
 /* About Us */
 #about {
-    background: #0000;
+    background: #000000;
     color:#fff;
     padding:80px 0;
 }
 
 #about h1 {
-    color:#0000;
+    color:#000000;
     font-size:36px;
     line-height:42px;
     font-weight:300;
