@@ -48,8 +48,7 @@ a:focus {
 .clearfix { display: block }
 /* Navigation */
 #menu {
-    margin-right: -300px;
-    left: 200px;
+    margin-bottom: 0;
     background-color: #000000;
     padding: 12px 0;
     height: auto;
@@ -57,20 +56,19 @@ a:focus {
 }
 .navbar-brand img {
     height: 100px; 
-    margin-bottom: 0px;
+    margin-bottom: 8px;
     left: 500px;
     width: auto;
 }
 .navbar-brand { padding: 4px 4px }
 .navbar-nav > li > a {
     font-size: 18px;
-    left: 420px;
     font-weight: 700;
     border: 1px solid transparent;
     padding: 8px 16px;
     margin: 8px 4px;
     text-transform: uppercase;
-    margin-right: -450px;
+    margin-right: -450x;
     transition: all 0.5s;
     color: #D3D3D3 !important;
 }
