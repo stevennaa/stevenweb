@@ -50,7 +50,7 @@ a:focus {
 #menu {
     margin-bottom: 0;
     background-color: #000000;
-    padding: 7px 0;
+    padding: 12px 0;
     height: auto;
     border: 0px;
 }
@@ -59,7 +59,7 @@ a:focus {
     left: 500px;
     width: auto;
 }
-.navbar-brand { padding: 8px 8px }
+.navbar-brand { padding: 4px 4px }
 .navbar-nav > li > a {
     font-size: 18px;
     font-weight: 700;
