@@ -276,6 +276,7 @@ a.goto-btn { margin-right: 30px ; border: #fff 1px solid; padding: 12px 18px; co
 /* Intro Section */
 #intro {
     background-color: #000000;
+    margin-right: 30px;
     padding: 5% 0;
     left: 200px;
     color: #ffffff;
