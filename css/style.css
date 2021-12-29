@@ -55,7 +55,7 @@ a:focus {
     border: 0px;
 }
 .navbar-brand img {
-    height: 100px; 
+    height: 150px; 
     left: 500px;
     width: auto;
 }
@@ -375,6 +375,7 @@ h4.media-heading {
     font-size:36px;
     line-height:42px;
     font-weight:300;
+    margin-right: -35px;
     margin-bottom:24px;
     position:relative;
 }
