@@ -57,7 +57,7 @@ a:focus {
 }
 .navbar-brand img {
     height: 100px; 
-    margin-bottom: 0px;
+    margin-right: -400;
     left: 500px;
     width: auto;
 }
@@ -70,7 +70,7 @@ a:focus {
     padding: 8px 16px;
     margin: 8px 4px;
     text-transform: uppercase;
-    margin-right: -200;
+    margin-right: -200px;
     transition: all 0.5s;
     color: #D3D3D3 !important;
 }
