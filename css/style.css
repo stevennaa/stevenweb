@@ -48,7 +48,7 @@ a:focus {
 .clearfix { display: block }
 /* Navigation */
 #menu {
-    margin-bottom: 0;
+    margin-right: -100px;
     background-color: #000000;
     padding: 12px 0;
     height: auto;
