@@ -48,8 +48,8 @@ a:focus {
 .clearfix { display: block }
 /* Navigation */
 #menu {
-    margin-right: -100px;
-    left: 50px;
+    margin-right: -300px;
+    left: 200px;
     background-color: #000000;
     padding: 12px 0;
     height: auto;
