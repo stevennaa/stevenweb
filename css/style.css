@@ -70,7 +70,7 @@ a:focus {
     padding: 8px 16px;
     margin: 8px 4px;
     text-transform: uppercase;
-    margin-right: -450;
+    margin-right: -200;
     transition: all 0.5s;
     color: #D3D3D3 !important;
 }
