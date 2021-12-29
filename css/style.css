@@ -49,13 +49,13 @@ a:focus {
 /* Navigation */
 #menu {
     margin-bottom: 0;
-    background-color: #D3D3D3;
+    background-color: #0000;
     padding: 7px 0;
     height: auto;
     border: 0px;
 }
 .navbar-brand img {
-    height: 100px; 
+    height: 120px; 
     left: 500px;
     width: auto;
 }
@@ -363,7 +363,7 @@ h4.media-heading {
 }
 /* About Us */
 #about {
-    background: #38A5DB;
+    background: #0000;
     color:#fff;
     padding:80px 0;
 }
