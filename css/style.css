@@ -67,6 +67,7 @@ a:focus {
     padding: 8px 16px;
     margin: 8px 4px;
     text-transform: uppercase;
+    left: 200px;
     transition: all 0.5s;
     color: #D3D3D3 !important;
 }
