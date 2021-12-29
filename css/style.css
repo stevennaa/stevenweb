@@ -49,6 +49,7 @@ a:focus {
 /* Navigation */
 #menu {
     margin-right: -100px;
+    left: 50px;
     background-color: #000000;
     padding: 12px 0;
     height: auto;
@@ -63,7 +64,7 @@ a:focus {
 .navbar-brand { padding: 4px 4px }
 .navbar-nav > li > a {
     font-size: 18px;
-    left: 350px;
+    left: 750px;
     font-weight: 700;
     border: 1px solid transparent;
     padding: 8px 16px;
